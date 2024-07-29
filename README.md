@@ -59,4 +59,3 @@ Shreyas Jadhav
 
 ---
 
-Feel free to modify the template according to your specific needs. Make sure the file names and paths in the README match those in your project.
